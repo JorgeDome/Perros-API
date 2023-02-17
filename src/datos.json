@@ -13,31 +13,24 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dogo_argentino_sylwetka.jpg",
     "descripcion": "Programador"
 }, {
-    "id": "9528ce4b-0ea9-4ffd-b631-ef27bd31add0",
-    "nombre": "aaa",
-    "edad": "aa",
-    "raza": "aaa",
-    "image": "aaa",
-    "descripcion": "aaa"
+    "id": "75d08408-de66-4aaa-9fe9-7f047d201a4a",
+    "nombre": "1",
+    "edad": "2",
+    "raza": "3",
+    "image": "4",
+    "descripcion": "5"
 }, {
-    "id": "9a31bdf4-68f0-4a79-af08-4ca71ce85260",
-    "nombre": "www",
-    "edad": "w",
-    "raza": "wwww",
-    "image": "www",
-    "descripcion": "www"
+    "id": "075da61d-adc4-4472-8119-43386661af32",
+    "nombre": "123",
+    "edad": "456",
+    "raza": "789",
+    "image": "10",
+    "descripcion": "111"
 }, {
-    "id": "b6190e29-c687-49df-bd06-a13c24b1271a",
-    "nombre": "ddda",
-    "edad": "ddassss",
-    "raza": "ddd",
-    "image": "ddd",
-    "descripcion": "ddd"
-}, {
-    "id": "1",
-    "nombre": "2222",
-    "edad": "22",
-    "raza": "222",
-    "image": "22",
-    "descripcion": "222"
+    "id": "baac5574-5bc4-489f-9e55-c8d732fc41a0",
+    "nombre": "1",
+    "edad": "2",
+    "raza": "3",
+    "image": "4",
+    "descripcion": "56"
 }]
